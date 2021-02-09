@@ -1,0 +1,49 @@
+h1{
+    background-color: chocolate;
+    font-size: 150px;
+    text-align: center;
+    font-weight: bold;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+margin:50px;
+padding: 40px;
+
+}
+
+.img1{
+
+    float: left;
+    width: 20% ;
+    margin: 15px;
+}
+
+body{
+align-items: center;
+    background-color:cadetblue;
+    width: 87%;
+    padding: 25px;
+}
+header nav ul li {
+    inline-size: 0mm;
+display: inline;
+font-size: 50px;
+margin-right: 75px;
+align-items: center;
+}
+.p1{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img2{
+
+    float: right;
+    width: 20% ;
+    margin: 15px;
+}
+.quotes{
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    background-color: gray;
+    padding: 10px;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: center;
+font-size: 29px;
+}
